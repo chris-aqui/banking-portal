@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/pluralsight-projects/NodeExpress-BankingPortal/issues"
   },
-  "homepage": "https://github.com/pluralsight-projects/NodeExpress-BankingPortal#readme",
+  "homepage": "https://github.com/christine-aqui/banking-portal",
   "dependencies": {
     "ejs": "2.6.1",
     "express": "4.16.3"
